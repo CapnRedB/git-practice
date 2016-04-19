@@ -1,0 +1,14 @@
+
+#odd{
+  background:orange;
+}
+#even{
+  background:red;
+}
+#groupone{
+  clear:right;
+  float:left;
+}
+#grouptwo{
+  float:right;
+}
